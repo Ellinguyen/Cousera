@@ -1,1 +1,1 @@
-# Ellinguyen_coursera
+# jekyll-theme-THEME-minimal
